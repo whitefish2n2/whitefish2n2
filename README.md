@@ -1,5 +1,5 @@
 - Hi, I’m Hasaeng.
-- I’m interested in dev 2d game.
+- It's Game Dev.
 - 🌱 I’m currently learning C++, C#, JAVA, Server.
 - ⚡ Fun fact: hasaeng means White(HAyan)Fish(SAENGseon)
 
