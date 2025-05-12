@@ -1,6 +1,6 @@
 - Hi, i'm Hasaeng.
-- i'm Game client Dev.
-- 🌱 i'm currently learning C++, C#, JAVA, Server, JS, python
+- its Game Developer.
+- 🌱 i'm currently learning C++, C#, Kotlin spring,network
 - ⚡ Fun fact: hasaeng means White(**HA**yan)Fish(**SAENG**seon)
 
 <!---
